@@ -162,7 +162,7 @@ def home_page(date_range, selected_countries):
     st.markdown(
         """
         This MIS Dashboard monitors and analyzes cross-border electricity
-        interconnections using only data from configured APIs and your own uploads.
+        interconnections.
         """
     )
 
@@ -1126,11 +1126,6 @@ def newsletter_page(refresh_cache):
 def data_management_page():
     """Data Management Page"""
     st.title("⚙️ Data Management")
-
-    st.info(
-        "Upload your own data or check API / dataset status. No synthetic "
-        "values are used; only what you provide or what APIs return."
-    )
 
     tab1, tab2, tab3 = st.tabs(["Upload Data", "Templates", "Data Status"])
 
