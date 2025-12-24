@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+fpdf
+fpdf2
+python-dateutil
+pytz
+lxml
+beautifulsoup4
+redis
+sqlalchemy
+openpyxl
+python-dotenv
+pyarrow
