@@ -1,0 +1,25 @@
+timestamp,from_country,to_country,flow_mw,capacity_mw,utilization_pct,source
+2024-12-24 00:07:59.396491,Germany,Austria,5200.5,6000.0,86.7,User Import
+2024-12-24 01:07:59.396491,Germany,Austria,5180.2,6000.0,86.3,User Import
+2024-12-24 02:07:59.396491,Germany,Austria,5250.0,6000.0,87.5,User Import
+2024-12-24 03:07:59.396491,Germany,Austria,5300.1,6000.0,88.3,User Import
+2024-12-24 04:07:59.396491,Germany,Austria,5150.3,6000.0,85.8,User Import
+2024-12-24 05:07:59.396491,Germany,Austria,5220.0,6000.0,87.0,User Import
+2024-12-24 06:07:59.396491,France,Spain,5200.5,6000.0,86.7,User Import
+2024-12-24 07:07:59.396491,France,Spain,5180.2,6000.0,86.3,User Import
+2024-12-24 08:07:59.396491,France,Spain,5250.0,6000.0,87.5,User Import
+2024-12-24 09:07:59.396491,France,Spain,5300.1,6000.0,88.3,User Import
+2024-12-24 10:07:59.396491,France,Spain,5150.3,6000.0,85.8,User Import
+2024-12-24 11:07:59.396491,France,Spain,5220.0,6000.0,87.0,User Import
+2024-12-24 12:07:59.396491,Austria,Czech Republic,5200.5,6000.0,86.7,User Import
+2024-12-24 13:07:59.396491,Austria,Czech Republic,5180.2,6000.0,86.3,User Import
+2024-12-24 14:07:59.396491,Austria,Czech Republic,5250.0,6000.0,87.5,User Import
+2024-12-24 15:07:59.396491,Austria,Czech Republic,5300.1,6000.0,88.3,User Import
+2024-12-24 16:07:59.396491,Austria,Czech Republic,5150.3,6000.0,85.8,User Import
+2024-12-24 17:07:59.396491,Austria,Czech Republic,5220.0,6000.0,87.0,User Import
+2024-12-24 18:07:59.396491,Spain,Portugal,5200.5,6000.0,86.7,User Import
+2024-12-24 19:07:59.396491,Spain,Portugal,5180.2,6000.0,86.3,User Import
+2024-12-24 20:07:59.396491,Spain,Portugal,5250.0,6000.0,87.5,User Import
+2024-12-24 21:07:59.396491,Spain,Portugal,5300.1,6000.0,88.3,User Import
+2024-12-24 22:07:59.396491,Spain,Portugal,5150.3,6000.0,85.8,User Import
+2024-12-24 23:07:59.396491,Spain,Portugal,5220.0,6000.0,87.0,User Import

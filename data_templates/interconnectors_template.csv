@@ -1,0 +1,9 @@
+interconnector_id,from_country,to_country,capacity_mw,voltage_kv,technology,operational_date,owner
+DE-AT-001,Germany,Austria,6000,380,AC,2010-01-01,TSO Austria
+DE-AT-002,Germany,Austria,5500,220,AC,2008-06-15,TSO Austria
+FR-ES-001,France,Spain,5000,380,AC,2012-03-20,RTE
+FR-ES-002,France,Spain,4500,220,AC,2005-09-10,RTE
+NL-DE-001,Netherlands,Germany,8000,380,AC,2015-11-01,TenneT
+NL-DE-002,Netherlands,Germany,7500,220,AC,2009-04-30,TenneT
+IT-FR-001,Italy,France,5500,380,AC,2011-07-15,TERNA
+AT-CZ-001,Austria,Czech Republic,5000,220,AC,2014-02-20,APG

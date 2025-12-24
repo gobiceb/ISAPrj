@@ -1,0 +1,11 @@
+country,year,coal_g_co2_per_kwh,gas_g_co2_per_kwh,nuclear_g_co2_per_kwh,wind_g_co2_per_kwh,solar_g_co2_per_kwh,hydro_g_co2_per_kwh,avg_grid_intensity_g_co2_per_kwh
+Germany,2024,950,400,12,10,40,4,350
+France,2024,0,400,12,10,40,4,55
+Spain,2024,850,400,12,10,40,4,280
+Austria,2024,0,400,12,10,40,4,150
+Poland,2024,900,400,12,10,40,4,650
+Czech Republic,2024,820,400,12,10,40,4,480
+Netherlands,2024,0,400,12,10,40,4,320
+Italy,2024,800,400,12,10,40,4,300
+Denmark,2024,0,400,12,10,40,4,45
+Sweden,2024,0,0,12,10,40,4,25
